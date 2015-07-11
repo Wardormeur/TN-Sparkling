@@ -1,4 +1,4 @@
-<?
+<?php
 require_once get_stylesheet_directory().'/library/thumbnails.php';
 
 //Lazy hack https://wordpress.org/support/topic/position-conflicts-nextpage-jetpack

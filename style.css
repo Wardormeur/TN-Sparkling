@@ -21,6 +21,10 @@
 
 }
 
+.hidden-title{
+    display:none;
+}
+
 .single-featured, .blog-item-wrap>a>img, article>.top-image>img{
     width:100%;
     /*margin-top:-15%;*/
